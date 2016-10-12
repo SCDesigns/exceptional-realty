@@ -1,13 +1,20 @@
-# HTML5 Video Embed Code-Along
+# Code Along Exercise 4
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/ymUxDt_mOxU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+## Overview
 
-<p><a href="https://www.youtube.com/watch?v=ymUxDt_mOxU">HTML5 Video Embed Code-Along</a></p>
+In this code along exercise we will add column structure to our page layouts.
 
-Fork and clone this repo (or use 'learn open') to download all of the starter code for the code along.
+## Steps
 
-[Click here to get the MP4 video linked to in the exercise](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.mp4)
+1. Fork this repository.
+2. Clone your fork.
+3. cd into the folder for this lab.
+4. Code along with the included video below.
 
-[Click here to get the OGV video linked to in the exercise](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.ogv)
+## Code Along Exercise 4 ~ 28min
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html5-video-embed-code-along' title='HTML5 Video Embed Code-Along'>HTML5 Video Embed Code-Along</a> on Learn.co and start learning to code for free.</p>
+<iframe width="100%" height="720" src="//www.youtube.com/embed/zZpAqtEXse0?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
+
+After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-4' title='Overview'>Code Along Exercise 4</a> on Learn.co and start learning to code for free.</p>
